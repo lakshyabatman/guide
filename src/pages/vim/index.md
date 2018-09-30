@@ -9,9 +9,9 @@ Vim (Vi IMproved) is a highly configurable text editor built to make creating an
 
 Vim is rock stable and boasts many features including:
 - persistent, multi-level undo tree
+- terminal support
 - extensive plugin system
 - support for hundreds of programming languages and file formats
-- powerful search and replace
 - integrates with many tools
 - built-in macro support for automation text manipulation
 - usable on systems that lack support for GUI based text editors
