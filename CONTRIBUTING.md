@@ -353,8 +353,6 @@ You can also add diagrams, graphics, or visualizations as necessary.
 
 You can even embed relevant YouTube videos and interactive [REPL.it](https://repl.it/) code editors.
 
-Don't use emojis or emoticons in the Guide. freeCodeCamp has a global community, and the cultural meaning of an emoji or emoticon may be different around the world. Also, emojis can render differently on different systems.
-
 ### Attributions
 
 To minimize the potential for plagiarism and maintain integrity in this guide, it is important to give credit where necessary.
