@@ -16,4 +16,4 @@ The tools and software commonly utilized with React are incredibly well maintain
 React is created and maintained by the folks at Facebook and is used by individuals and companies all over the world in large volume. This means React is constantly improving and any problems you may have have probably already been asked on Stack Overflow.
 
 #### More Information
-To learn more about why React is so great check out the [official website](https://reactjs.org/)
+To learn more about why React is so great check out the [official website](https://reactjs.org/) and the [community](https://discuss.reactjs.org/).
