@@ -40,11 +40,11 @@ Before you begin writing, make sure to read the [article style guide](https://gi
 
 ## Contributing
 
-1. 🍴 Fork this repository.
-2. 👀️ Follow the contributing guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
-3. 🔧 Make some awesome changes!
-4. 👉 [Make a pull request](https://github.com/freeCodeCamp/guide/compare)
-5. 🎉 Get your pull request approved!
+1. 🍴 Fork this repository. 🔥
+2. 👀️ Follow the contributing guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md). 🔥
+3. 🔧 Make some awesome changes! 🔥
+4. 👉 [Make a pull request](https://github.com/freeCodeCamp/guide/compare). 🔥
+5. 🎉 Get your pull request approved! 🔥
 
 Or just [create an issue](https://github.com/freeCodeCamp/guide/issues)—any little bit of help counts! 😊
 
