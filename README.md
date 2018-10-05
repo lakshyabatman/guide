@@ -26,7 +26,7 @@ You can find an [example article about HTML Elements here](./src/pages/html/elem
 
 ## What can I write an article about?
 
-Front-end development (adjective form with a dash) is when you are working on the front end (noun form with no dash). The same goes with the back end, full stack, and many other compound terms.
+Front-end development (adjective form with a dash) is when you are working on the front end (noun form with no dash). The same goes with the back-end, full stack, and many other compound terms.
 
 We welcome your help writing these articles. You don't have to be an expert in a topic to write about it—this entire Guide is open source, so even if you make a mistake, another contributor will eventually correct it.
 
